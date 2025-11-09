@@ -14,15 +14,6 @@ Da arquitetura ao design, nosso foco está em transformar ideias em soluções d
 
 ---
 
-## 🧠 Filosofia
-
-> "Simplicidade é o ápice da sofisticação."
-
-Na Raemi Labs, acreditamos que tecnologia e arte caminham juntas.  
-Cada linha de código é uma oportunidade para construir algo significativo.
-
----
-
 ## 🧩 Projetos em destaque
 
 | Projeto | Descrição | Status |
