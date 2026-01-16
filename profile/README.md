@@ -30,8 +30,8 @@ Da arquitetura ao design, nosso foco está em transformar ideias em soluções d
 ## 📬 Contato
 📧 **admin@raemilabs.com**  
 🌍 [www.raemi.xyz](https://www.raemi.xyz)  
-🐙 [github.com/RaemiLabs](https://github.com/RaemiLabs)
+🐙 [github.com/Raemi-Labs](https://github.com/RaemiLabs)
 
 ---
 
-© 2025 **Raemi Labs** — All rights reserved.
+© 2026 **Raemi Labs** — All rights reserved.
