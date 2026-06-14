@@ -14,14 +14,6 @@ Da arquitetura ao design, nosso foco está em transformar ideias em soluções d
 
 ---
 
-## 🧩 Projetos em destaque
-
-| Projeto | Descrição | Status |
-|----------|------------|--------|
-| *(Em breve)* |  |  |
-
----
-
 ## 🛠️ Tecnologias que amamos
 `Node.js (JavaScript)` • `HTML` • `CSS` • `MySQL` • `MongoDB` • `Amazon Web Services (AWS)` • `Google Cloud`
 
